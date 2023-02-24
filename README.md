@@ -1,0 +1,1 @@
+# php-imagem-no-bd
